@@ -1,0 +1,10 @@
+conversion of data stored in list format to convert it in .xml file which can be later used to import data in Tally to create ledger
+Can be imported directly using SOAP request
+with GUI version to upload file in Web Page
+version 8 :
+space optimization by using writing string and final version updating to output file to upload
+no use of any input xml file or format as used before for skeleton
+time optimization as no different function being called to parse the xml file and sequentially update ledger name and parent 
+
+version 9 :
+forms fully on java application ie exe format no need for webservices or host as a product      
